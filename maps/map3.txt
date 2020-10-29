@@ -1,0 +1,46 @@
+NODES
+START Norsborg:1
+Hjulsta Tensta:1 GOAL:1
+Tensta Rinkeby:1 Hjulsta:1
+Rinkeby Rissne:1 Tensta:1
+Rissne Duvbo:1 Rinkeby:1
+Duvbo Sundbybergs-centrum:1 Rissne:1
+Sundbybergs-centrum Solna-strand:1 Duvbo:1
+Solna-strand Huvudsta:1 Sundbybergs-centrum:1
+Huvudsta Västra-skogen:1 Solna-strand:1
+Västra-skogen Stadshagen:1 Huvudsta:1
+Stadshagen Fridhemsplan:1 Västra-skogen:1
+Fridhemsplan Rådhuset:1 Stadshagen:1
+Rådhuset T-Centralen:1 Fridhemsplan:1
+T-Centralen Kungsträdgården:1 Rådhuset:1 Gamla-stan:1 Östermalmstorg:1
+Kungsträdgården T-Centralen:1
+Ropsten Gärdet:1
+Gärdet Karlaplan:1 Ropsten:1
+Karlaplan Östermalmstorg:1 Gärdet:1
+Östermalmstorg T-Centralen:1 Karlaplan:1
+Gamla-stan Slussen:1 T-Centralen:1
+Slussen Mariatorget:1 Gamla-stan:1
+Mariatorget Zinkensdamm:1 Slussen:1
+Zinkensdamm Hornstull:1 Mariatorget:1
+Hornstull Liljeholmen:1 Zinkensdamm:1
+Liljeholmen Aspudden:1 Hornstull:1
+Aspudden Örnsberg:1 Liljeholmen:1
+Örnsberg Axelsberg:1 Aspudden:1
+Axelsberg Mälarhöjden:1 Örnsberg:1
+Mälarhöjden Bredäng:1 Axelsberg:1
+Bredäng Sätra:1 Mälarhöjden:1
+Sätra Skärholmen:1 Bredäng:1
+Skärholmen Vårberg:1 Sätra:1
+Vårberg Vårby-gård:1 Skärholmen:1
+Vårby-gård Masmo:1 Vårberg:1
+Masmo Fittja:1 Vårby-gård:1
+Fittja Alby:1 Masmo:1
+Alby Hallunda:1 Fittja:1
+Hallunda Norsborg:1 Alby:1
+Norsborg Hallunda:1
+GOAL Hjulsta:1
+END NODES
+
+DISTS
+1 N(10,1)
+END DISTS
