@@ -1,5 +1,6 @@
 Planning algorithms
 ===================
+Consider moving to another city where you have found a new job. Although it may be fun and exciting to explore your new home city, there are certain things you will want to optimize. For example, finding your optimal path to work or other locations. Nowadays, the market has a lot of tools to offer for these specific problems, e.g. Google Maps and Waze. However, these rely on data gathered by a lot of users and not specifically one's personal experience. And what if you wanted to challenge yourself – to see how well you can perform at learning the layout and navigating across the dynamics of the city – all on your own? Well, now this sounds a lot like an online contingent planning problem.
 
 We have implemented essentially three different algorithms, that can be run in various ways. There are also a number of different maps.
 
